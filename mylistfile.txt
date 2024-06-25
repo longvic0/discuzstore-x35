@@ -1,3 +1,4 @@
+newline
 source/admincp/admincp_collection.php
 source/admincp/admincp_counter.php
 source/admincp/admincp_login.php
